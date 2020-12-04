@@ -1,0 +1,6 @@
+R1, D1 Tree Count :  57
+R3, D1 Tree Count :  252
+R5, D1 Tree Count :  64
+R7, D1 Tree Count :  66
+R1, D2 Tree Count :  43
+Product of each slope:  2608962048
